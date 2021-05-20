@@ -1,0 +1,93 @@
+[
+    {
+        "hashTag": "cheese",
+        "mediaUrl": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/6b167c747784401fbf0528c3870ab19a/BFV28873_6MicrowaveMealsHACK.jpg?output-format=auto&output-quality=auto",
+        "likeCount": "200",
+        "commentCount": "600",
+        "isUserStory": true
+    },
+    {
+        "hashTag": "bbq",
+        "mediaUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOWEnIIyvyB6E89Ua444mIgd-Y9q_ngAfBnQ&usqp=CAU",
+        "likeCount": "1200",
+        "commentCount": "900",
+        "isUserStory": true
+    },
+    {
+        "hashTag": "burger",
+        "mediaUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1el4SW4vcUAjcGvqtDDLW9YptJhxyQVwZtA&usqp=CAU",
+        "likeCount": "100",
+        "commentCount": "10",
+        "isUserStory": true
+    },
+    {
+        "hashTag": "video",
+        "mediaUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "likeCount": "2000",
+        "commentCount": "900",
+        "isUserStory": true
+    },
+    {
+        "hashTag": "cheese",
+        "mediaUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XBjo2e8e-VpBUnbCRwMuAaWcbobwKXy8QQ&usqp=CAU",
+        "likeCount": "1000",
+        "commentCount": "700",
+        "isUserStory": true
+    },
+    {
+        "hashTag": "bbq",
+        "mediaUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0iME41b7s-e4E0AGMhgIMqDQYtTo_-aEAeA&usqp=CAU",
+        "likeCount": "2500",
+        "commentCount": "1200",
+        "isUserStory": true
+    },
+    {
+        "hashTag": "bbq",
+        "mediaUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcecQfV4vvFSA7t4ikX_8ItHnbx-4NkLTbg&usqp=CAU",
+        "likeCount": "800",
+        "commentCount": "782",
+        "isUserStory": false
+    },
+    {
+        "hashTag": "burger",
+        "mediaUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3IRHDw8Uzau6svx4EM7UcA0P8Ae529Vq4dw&usqp=CAU",
+        "likeCount": "600",
+        "commentCount": "100",
+        "isUserStory": true
+    },
+    {
+        "hashTag": "video",
+        "mediaUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "likeCount": "10000",
+        "commentCount": "4000",
+        "isUserStory": false
+    },
+    {
+        "hashTag": "burger",
+        "mediaUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWU5Ollcm4e1kvyXeS1eoohbKKoO_Bulg0Q&usqp=CAU",
+        "likeCount": "350",
+        "commentCount": "6",
+        "isUserStory": false
+    },
+    {
+        "hashTag": "fries",
+        "mediaUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2RqDsQ_2cgWXJDE0D2CwOGAvZfduJbbgtQ&usqp=CAU",
+        "likeCount": "1000",
+        "commentCount": "600",
+        "isUserStory": false
+    },
+    {
+        "hashTag": "cheese",
+        "mediaUrl": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/6b167c747784401fbf0528c3870ab19a/BFV28873_6MicrowaveMealsHACK.jpg?output-format=auto&output-quality=auto",
+        "likeCount": "5500",
+        "commentCount": "2300",
+        "isUserStory": false
+    },
+    {
+        "hashTag": "bbq",
+        "mediaUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcecQfV4vvFSA7t4ikX_8ItHnbx-4NkLTbg&usqp=CAU",
+        "likeCount": "200",
+        "commentCount": "500",
+        "isUserStory": false
+    }
+]
